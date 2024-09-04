@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/user-management-table/static/css/main.3ab8afd8.css",
+    "main.css": "/user-management-table/static/css/main.064f684b.css",
     "main.js": "/user-management-table/static/js/main.9f4151fb.js",
     "index.html": "/user-management-table/index.html",
-    "main.3ab8afd8.css.map": "/user-management-table/static/css/main.3ab8afd8.css.map",
+    "main.064f684b.css.map": "/user-management-table/static/css/main.064f684b.css.map",
     "main.9f4151fb.js.map": "/user-management-table/static/js/main.9f4151fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ab8afd8.css",
+    "static/css/main.064f684b.css",
     "static/js/main.9f4151fb.js"
   ]
 }
