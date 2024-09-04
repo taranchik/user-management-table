@@ -1,0 +1,39 @@
+@import "../../../styles/variables.scss";
+
+.table-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: $card-radius;
+  box-shadow: $card-shadow;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+
+    th,
+    td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid $table-border-color;
+    }
+
+    th {
+      background-color: $table-header-bg;
+      color: #333;
+      font-weight: bold;
+    }
+
+    tr:nth-child(even) {
+      background-color: $table-row-bg;
+    }
+
+    tr:hover {
+      background-color: $table-row-hover-bg;
+    }
+
+    .no-users-cell:hover {
+      background: none;
+    }
+  }
+}
